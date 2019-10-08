@@ -18,7 +18,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "noble-device": "^1.4.1"
+    "noble-device": "github:tim-hellhake/noble-device#switch-to-abandonware-noble"
   },
   "devDependencies": {
     "async": "~0.2.7",
